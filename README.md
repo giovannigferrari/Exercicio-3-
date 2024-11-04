@@ -34,7 +34,6 @@
         <p>Números maiores que a média: <span id="maioresMedia"></span></p>
         <p>Número de elementos menores que zero: <span id="menoresZero"></span></p>
     </div>
-    </div>
     <script>
         let numeros = [];
         function adicionarNumero() {
